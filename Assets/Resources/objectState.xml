@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<objectState_Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <caseIsopen>false</caseIsopen>
+  <caseIsempty>false</caseIsempty>
+  <drawerIsopen_1>false</drawerIsopen_1>
+  <drawerIsempty_1>false</drawerIsempty_1>
+  <drawerIsopen_2>false</drawerIsopen_2>
+  <drawerIsempty_2>false</drawerIsempty_2>
+  <squareDoor_state>false</squareDoor_state>
+  <mainhallDoor_state>false</mainhallDoor_state>
+  <shDoor_state>false</shDoor_state>
+  <lab_1_Door_state>false</lab_1_Door_state>
+  <lab_2_Door_state>false</lab_2_Door_state>
+  <serv_1_Door_state>false</serv_1_Door_state>
+  <serv_2_Door_state>false</serv_2_Door_state>
+  <hallDoor_state>false</hallDoor_state>
+</objectState_Data>

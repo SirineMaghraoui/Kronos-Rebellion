@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<kronos_Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <pos_x>260.75</pos_x>
+  <pos_y>0.02</pos_y>
+  <pos_z>175.75</pos_z>
+  <rot_x>0</rot_x>
+  <rot_y>0</rot_y>
+  <rot_z>0</rot_z>
+  <card>false</card>
+  <al_Box>false</al_Box>
+  <container_lead>false</container_lead>
+  <stungun>false</stungun>
+  <container_acid>false</container_acid>
+  <accumulator>false</accumulator>
+</kronos_Data>
